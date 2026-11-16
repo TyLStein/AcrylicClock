@@ -18,7 +18,7 @@ There are many skills that I want to learn with this. One is soldering, which I 
 ## Design and Implementation
 
 Basic block diagram, might be slightly off but displays general way it would be.
-<img width="599" height="425" alt="Screenshot 2026-11-15 at 9 29 24 PM" src="https://github.com/user-attachments/assets/5f38c13f-d8ff-4883-bcaf-db3f3e795968" />
+<img width="504" height="374" alt="Screenshot 2026-11-16 at 2 16 23 PM" src="https://github.com/user-attachments/assets/8d3a1eb7-38c4-4f5d-97ba-727201b73e9c" />
 
 ## Bill of Materials
 
