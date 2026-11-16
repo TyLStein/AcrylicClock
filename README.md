@@ -1,6 +1,4 @@
-# Project Name
-
-> Acrylic Nightstand Clock
+# Acrylic Nightstand Clock
 
 ## Project Owner
 
