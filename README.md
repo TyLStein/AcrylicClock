@@ -1,4 +1,3 @@
-<img width="503" height="366" alt="Screenshot 2026-11-16 at 2 23 21 PM" src="https://github.com/user-attachments/assets/fe6bb7b0-0f1a-4ab1-aa77-887cf4348500" />
 # Project Name
 
 > Acrylic Nightstand Clock
