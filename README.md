@@ -1,3 +1,4 @@
+<img width="503" height="366" alt="Screenshot 2026-11-16 at 2 23 21 PM" src="https://github.com/user-attachments/assets/fe6bb7b0-0f1a-4ab1-aa77-887cf4348500" />
 # Project Name
 
 > Acrylic Nightstand Clock
@@ -18,7 +19,8 @@ There are many skills that I want to learn with this. One is soldering, which I 
 ## Design and Implementation
 
 Basic block diagram, might be slightly off but displays general way it would be.
-<img width="100%" alt="Acrylic Nightstand Clock block diagram" src="./her.png" />
+<img width="499" height="371" alt="Screenshot 2026-11-16 at 2 24 39 PM" src="https://github.com/user-attachments/assets/baca248b-c78e-4f85-9823-cbe47b7efec5" />
+
 
 ## Bill of Materials
 
